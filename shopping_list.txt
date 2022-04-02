@@ -1,0 +1,5 @@
+Eggs
+Meat
+Bread
+Coffee
+Cheese
