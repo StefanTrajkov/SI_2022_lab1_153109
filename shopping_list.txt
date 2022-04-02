@@ -1,5 +1,5 @@
-Eggs
-Meat
-Bread
-Coffee
-Cheese
+Eggs x 4
+Meat x 2
+Bread x 10
+Coffee x 13
+Cheese x 20
