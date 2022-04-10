@@ -1,5 +1,5 @@
 Eggs x 4
-Meat x 2
+Meat x 200
 Bread x 10
 Coffee x 13
 Cheese x 20
