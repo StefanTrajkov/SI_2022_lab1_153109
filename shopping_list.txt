@@ -3,3 +3,4 @@ Meat x 2
 Bread x 10
 Coffee x 166
 Cheese x 20
+Macaroni x 55
